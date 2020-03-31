@@ -1,8 +1,16 @@
 # vue-weather
-
 ## Project setup
 ```
 npm install
+```
+## Install CLI
+```
+npm install -g @vue/cli
+```
+## Create New Project
+```
+vue create weatherFromApi_vue
+cd weatherFromApi_vue
 ```
 
 ### Compiles and hot-reloads for development
@@ -15,10 +23,4 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
